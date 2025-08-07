@@ -1,4 +1,4 @@
 # TheFirstStep
 My first github Repository.
 <br>
-Author- Pratik Singh
+Author- Pratik Rajput
